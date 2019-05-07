@@ -13,6 +13,6 @@
   * [Gitlab的CI/CD与K8S集成](Gitlab的CICD与K8S集成.md)
 
 * [IM项目测试部署]()
-  * [K8S部署开源项目之连接etcd(TLS)](K8S部署开源项目之连接etcd(TLS).md)
+  * [K8S部署开源项目之连接etcd(TLS)](K8S部署开源项目之连接etcd.md)
 
 
