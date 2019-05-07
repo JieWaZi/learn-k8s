@@ -10,7 +10,7 @@
 
   * [部署GlusterFs并在k8s中使用](部署GlusterFs并在k8s中使用.md)
 
-  * [Gitlab的CI/CD与K8S集成](Gitlab的CI/CD与K8S集成.md)
+  * [Gitlab的CI/CD与K8S集成](Gitlab的CICD与K8S集成.md)
 
 * [IM项目测试部署]()
   * [K8S部署开源项目之连接etcd(TLS)](K8S部署开源项目之连接etcd(TLS).md)
