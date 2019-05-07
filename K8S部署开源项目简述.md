@@ -50,5 +50,5 @@ TODO
 * [部署GlusterFs并在k8s中使用](部署GlusterFs并在k8s中使用.md)
 * [Gitlab的CI/CD与K8S集成](Gitlab的CI/CD与K8S集成.md)
 
-结合项目实际操作：
-* [K8S部署IM项目之项目连接ETCD（TLS）](K8S部署开源项目之连接etcd(TLS).md)
+结合IM项目实际操作：
+* [K8S部署开源项目之连接etcd(TLS)](K8S部署开源项目之连接etcd(TLS).md)
